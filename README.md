@@ -1,1 +1,2 @@
-# python-journey
+### Python Journey
+This notebook contains Python basics 
